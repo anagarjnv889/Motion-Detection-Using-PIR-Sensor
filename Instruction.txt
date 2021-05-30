@@ -1,4 +1,4 @@
-# Steps to run the application:
+Steps to run the application:
 
 Motion Detection usin the PIR sensor and Arduino
 
